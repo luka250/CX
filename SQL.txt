@@ -1,0 +1,5 @@
+table -  users
+
+velebi :   user_id  AI/PK  INT
+	   email    VARCHAR 255
+	   password VARCHAR 255
